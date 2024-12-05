@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "random_points_banana_island",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 383749.746544392721262, 721219.486709725111723 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 385456.011465125950053, 720546.8442056349013 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 384515.355714949779212, 721220.242589376517572 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 384998.020522891136352, 720843.135112929507159 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 385369.57305949809961, 720048.301369337365031 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 385030.603630003635772, 719774.672618327313103 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 384180.513981355063152, 720935.293632171466015 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 384594.644370486901607, 720770.015119184274226 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 384130.911539826076478, 721382.117731527541764 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 385324.692945740709547, 721088.309223635355011 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 384918.113616956514306, 721239.940052892896347 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 385032.631253221887164, 720441.575716494466178 ] } }
+]
+}
