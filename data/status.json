@@ -1,4 +1,8 @@
 {
-    "timestamp": "2024-12-18T07:20:02.439628",
-    "status": "automated update"
+    "timestamp": "2024-12-18T07:30:23.104316",
+    "status": "on",
+    "location": {
+        "latitude": 6.46301,
+        "longitude": 3.454444
+    }
 }
